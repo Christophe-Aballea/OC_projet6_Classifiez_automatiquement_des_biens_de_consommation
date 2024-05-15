@@ -3,7 +3,7 @@
 
 ## Notebook 1  
 
-### 16-05 01.02  
+### 16-05 01:02  
 * Ajout Matrice de confusion
 
 ### 15-05 19:55  
