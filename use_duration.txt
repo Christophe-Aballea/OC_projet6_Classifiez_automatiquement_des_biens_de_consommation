@@ -1,0 +1,1 @@
+Durée d'extraction des features USE : 4.971929999999702 secondes
