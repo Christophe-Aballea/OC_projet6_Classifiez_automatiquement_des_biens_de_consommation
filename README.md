@@ -1,6 +1,11 @@
 # Projet 6 - Classifiez automatiquement des biens de consommation  
 
 
+## Notebook 2 : SIFT
+
+### 17-05 01:58
+* Premier dépôt
+
 ## Notebook 1  
 
 ### 16-05 01:02  
