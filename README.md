@@ -3,6 +3,10 @@
 
 ## Notebook 2 : SIFT
 
+### 17-05 14:42
+* Ajout Visualisations
+* Ajout Analyse métriques
+
 ### 17-05 01:58
 * Premier dépôt
 
