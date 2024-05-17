@@ -3,6 +3,9 @@
 
 ## Notebook 2 : SIFT
 
+### 17-05 15:06
+* Enregistrement métriques dans 'df_metrics.csv'
+
 ### 17-05 14:42
 * Ajout Visualisations
 * Ajout Analyse métriques
