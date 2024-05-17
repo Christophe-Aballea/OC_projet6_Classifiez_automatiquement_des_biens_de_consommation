@@ -1,6 +1,10 @@
 # Projet 6 - Classifiez automatiquement des biens de consommation  
 
 
+## Notebook 4 : Collecte de produits via API
+* 18-05 : Premier dépôt
+
+
 ## Notebook 2 : SIFT
 
 ### 17-05 15:06
@@ -12,6 +16,7 @@
 
 ### 17-05 01:58
 * Premier dépôt
+
 
 ## Notebook 1  
 
