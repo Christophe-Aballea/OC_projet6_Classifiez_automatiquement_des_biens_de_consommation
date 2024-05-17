@@ -8,6 +8,11 @@
 
 ## Notebook 1  
 
+### 17-05 14:36  
+* Modification légende scatterplots pour afficher noms des catégories
+* Ajout Matrice de confusion
+* Ajout Accuracy
+
 ### 16-05 01:02  
 * Ajout Matrice de confusion
 
