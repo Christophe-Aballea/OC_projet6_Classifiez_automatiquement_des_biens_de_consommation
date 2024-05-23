@@ -1,6 +1,13 @@
 # Projet 6 - Classifiez automatiquement des biens de consommation  
 
 
+## Notebook 3 : NB3-V2
+
+### 23-05 11:00  
+* VGG16 Data augmentation
+* Matrice de confusion et tableau métriques global  
+  
+
 ## Notebook 4 : Collecte de produits via API
 * 18-05 : Premier dépôt
 
