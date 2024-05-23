@@ -3,9 +3,11 @@
 
 ## Notebook 3 : NB3-V2
 
+### 23-05 22:04  
+* Version définitive après rerun complet
+
 ### 23-05 14:55  
 * Ajout de quelques exemples images mal classées
-
 
 ### 23-05 11:00  
 * VGG16 Data augmentation

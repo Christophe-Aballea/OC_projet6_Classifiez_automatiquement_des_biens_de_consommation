@@ -1,0 +1,10 @@
+Modèle,Méthode de réduction de dimensions,Score ARI,Durée totale,Durée de prétraitement,Durée d'extraction des features,Accuracy
+CountVectorizer,t-SNE,0.3960151074382854,5.94 secs,5.84 secs,0.1 secs,-
+Tf-idf,t-SNE,0.4861941194639657,5.88 secs,5.84 secs,0.04 secs,-
+Word2Vec,t-SNE,0.3652154992487199,5.92 secs,5.84 secs,0.08 secs,-
+SBERT,t-SNE,0.7119088658621565,87.08 secs,0.0 secs,87.08 secs,0.86
+USE,t-SNE,0.4071122102419411,4.97 secs,0.0 secs,4.97 secs,-
+SIFT,t-SNE,0.0538306816306942,65.14 secs,61.89 secs,3.25 secs,-
+CNN,t-SNE,0.1542163547829233,377.35 secs,75.24 secs,302.11 secs,-
+VGG16,t-SNE,0.6346701938388916,624.69 secs,213.61 secs,411.09 secs,-
+VGG16 - Data augmentation,t-SNE,0.7595333612924675,752.3 secs,219.98 secs,532.32 secs,0.89
