@@ -15,7 +15,12 @@
   
 
 ## Notebook 4 : Collecte de produits via API
-* 18-05 : Premier dépôt
+
+### 23-05 22:25  
+* Version définitive après rerun complet
+
+### 18-05
+* Premier dépôt
 
 
 ## Notebook 2 : SIFT
