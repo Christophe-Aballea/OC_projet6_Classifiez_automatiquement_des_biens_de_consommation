@@ -25,6 +25,9 @@
 
 ## Notebook 2 : SIFT
 
+### 23-05 23:40  
+* Mise à jour sommaire
+
 ### 17-05 15:06
 * Enregistrement métriques dans 'df_metrics.csv'
 
